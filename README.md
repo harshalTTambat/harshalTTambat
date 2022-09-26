@@ -33,16 +33,10 @@
 
 <br/>
 
-<p align="center">
-	
-    <img
-        height="180em"
-	 width="400em"
-        src="https://github-readme-stats.vercel.app/api?username=harshalttambat&show_icons=true&locale=en" alt="harshalttambat"
-    />
-
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalttambat&show_icons=true&locale=en&layout=compact" alt="harshalttambat" />
 </p>
 
-<p align="center"> 
-	<a href="https://github.com/harshalttambat"><img src="https://komarev.com/ghpvc/?username=harshalttambat" alt="harshalttambat"/></a>	
+<p>&nbsp;
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshalttambat&show_icons=true&locale=en" alt="harshalttambat" />
 </p>

@@ -38,7 +38,7 @@
     <img
         height="180em"
 	 width="400em"
-        src="https://github-readme-stats.vercel.app/api?username=harshalttambat&show_icons=true&hide_border=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=harshalttambat&show_icons=true&locale=en" alt="harshalttambat"
     />
 
 </p>

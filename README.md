@@ -36,7 +36,8 @@
 <p>
 	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalttambat&show_icons=true&locale=en&layout=compact" alt="harshalttambat" />
 </p>
-
+<br>
+<br>
 <p>&nbsp;
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshalttambat&show_icons=true&locale=en" alt="harshalttambat" />
 </p>

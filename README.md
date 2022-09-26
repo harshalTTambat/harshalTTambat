@@ -38,6 +38,12 @@
 </p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p>&nbsp;
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshalttambat&show_icons=true&locale=en" alt="harshalttambat" />
 </p>

@@ -31,12 +31,3 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=007ACC)
 
-<br/>
-
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalttambat&show_icons=true&locale=en&layout=compact" alt="harshalttambat" />
-</p>
-
-<p>&nbsp;
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshalttambat&show_icons=true&locale=en" alt="harshalttambat" />
-</p>

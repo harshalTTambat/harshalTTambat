@@ -7,7 +7,9 @@
 [<img alt="Leetcode" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/httambat/)
 [<img alt="hackerrank" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hackerrank.svg" />](https://www.hackerrank.com/harshaltambat38)
 
-- 🌱 currently learning **Data structure and algorithms**
+
+- 🌱 Data structure and algorithms
+- 🌱 currently learning **Full Stack Dev**
 - 🌐 Reach me: **harshaltambat38@gmail.com**
 
 <br>
